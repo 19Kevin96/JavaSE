@@ -32,8 +32,38 @@ public class MainClass02 {
 			System.out.println(i+" ");
 		}
 		
+//		num3 : 1
+//		num3 : 0
+
+		
+		int num3 = 0;
+		System.out.println("num3 : " + ++num3);
+		num3 = 0;
+		System.out.println("num3 : " + num3++);
+
+		System.out.println("num3 : " + num3);
+		
+		
+		
+		
+		
 		
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 
 }
