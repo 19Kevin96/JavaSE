@@ -26,7 +26,8 @@ public class Member {
 		this.name = name;
 		this.addr = addr;
 	}
-
+	
+	// 멤버메소드
 	public int getNum() {
 		return num;
 	}
