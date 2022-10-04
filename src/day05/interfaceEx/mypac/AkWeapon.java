@@ -16,6 +16,7 @@ public class AkWeapon implements Weapon{
 	
 	
 	public void autoAttack() {
+		
 		System.out.println("자동 연사를 해요!");
 	}
 

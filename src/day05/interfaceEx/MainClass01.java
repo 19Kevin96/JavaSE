@@ -32,7 +32,6 @@ public class MainClass01 {
 		
 		AkWeapon ak3 = (AkWeapon)ak2;
 		ak3.autoAttack();
-		
 	}
 
 }
