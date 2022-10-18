@@ -60,22 +60,22 @@ mkdir -m 700 dirname : 특정 퍼미션(권한)을 갖는 디렉터리 생성
 
  
 
-5. cp (Copy) : 파일 복사  
-cp file1 file2 : file1을 file2라는 이름으로 복사  
-cp -f file1 file2 : 강제 복사(file2라는 파일이 이미 있을 경우 강제로 기존 file2를 지우고 복사 진행)  
-cp -r dir1 dir2 : 디렉터리 복사. 폴더 안의 모든 하위 경로와 파일들을 복사  
+5. cp (Copy) : 파일 복사    
+cp file1 file2 : file1을 file2라는 이름으로 복사    
+cp -f file1 file2 : 강제 복사(file2라는 파일이 이미 있을 경우 강제로 기존 file2를 지우고 복사 진행)    
+cp -r dir1 dir2 : 디렉터리 복사. 폴더 안의 모든 하위 경로와 파일들을 복사    
    
   
-6. mv (Move) : 파일 이동  
-mv file1 file2 : file1 파일을 file2 파일로 변경  
-mv file1 /dir : file1 파일을 dir 디렉터리로 이동  
-mv file1 file2 /dir : 여러 개의 파일을 dir 디렉터리로 이동  
-mv /dir1 /dir2 : dir1 디렉터리를 dir2 디렉터리로 이름 변경  
+6. mv (Move) : 파일 이동    
+mv file1 file2 : file1 파일을 file2 파일로 변경    
+mv file1 /dir : file1 파일을 dir 디렉터리로 이동    
+mv file1 file2 /dir : 여러 개의 파일을 dir 디렉터리로 이동    
+mv /dir1 /dir2 : dir1 디렉터리를 dir2 디렉터리로 이름 변경    
  
 
-7. rm (Remove) : 파일 삭제  
-rm file1 : file1을 삭제  
-rm -f file1 : file1을 강제 삭제  
+7. rm (Remove) : 파일 삭제     
+rm file1 : file1을 삭제    
+rm -f file1 : file1을 강제 삭제    
 rm -r dir : dir 디렉터리 삭제 (디렉터리는 -r 옵션 없이 삭제 불가)  
  
 
