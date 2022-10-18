@@ -39,6 +39,9 @@
 7. 하이디SQL 설치
     https://www.heidisql.com/  
 
+
+8. Vagrantfile 만들기
+	위 Vagrantfile 내용복사하여 이미지 생성할 폴더에 파일만든다.
  * * *
 
 ### MySQL 예제 스키마
